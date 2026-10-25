@@ -15,8 +15,6 @@ body {
     margin: auto;
     border: 3px solid black;
     border-radius: 20px;
-    
-
 }
 
 h1 {
@@ -37,11 +35,9 @@ button {
     color: white;
     font-weight: bold;
     width: 200px;
-    margin-bottom: px;
+    margin-bottom: 10px;
     border-radius: 5px;
 }
-
-
 
 #increment-btn {
     background: darkred;
@@ -52,4 +48,5 @@ button {
 }
 
 #reset-btn {
-    background: lightorange;
+    background: #f7b267;
+}
